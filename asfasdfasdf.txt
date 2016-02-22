@@ -1,2 +1,1 @@
-kjsdjkhsj
-sdkjhf
+cout<<"Hello, World!\n";
